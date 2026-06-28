@@ -1,6 +1,6 @@
 # Dokumentasi Analisis Finansial dan Proyeksi TCO
 
-Dokumen ini memuat interpretasi data visual dari file `tco_bep_chart.png` serta ringkasan eksekutif hasil kalkulasi Total Cost of Ownership (TCO). Analisis ini digunakan sebagai landasan data (proof of concept) untuk fitur Micro-Savings dan Automated Investment pada pengembangan platform Sahabat Duwit (SAWIT).
+Dokumen ini memuat interpretasi data visual dari file `tco_bep_chart.png` serta ringkasan eksekutif hasil kalkulasi Total Cost of Ownership (TCO). Analisis ini digunakan sebagai landasan data (proof of concept) untuk melakukan Micro-Savings dan Investasi.
 
 ## Interpretasi Grafik: tco_bep_chart.png
 
@@ -24,12 +24,11 @@ Proyeksi grafik menggunakan rentang waktu 60 bulan (5 tahun) dengan parameter op
 | Total TCO Akhir (60 Bulan) | Rp 32.185.000 | Rp 23.332.201 | Rp 8.852.799 (Total Akumulasi Hemat) |
 | Penghematan Opex Bulanan Net | - | - | Rp 332.490 / bulan |
 
-### Implementasi pada Fitur Aplikasi Keuangan (Future Value)
-Platform SAWIT memanfaatkan angka penghematan operasional net sebesar Rp 332.490 per bulan ini untuk dialihkan secara otomatis ke instrumen reksa dana. Menggunakan asumsi makroekonomi dengan Compound Annual Growth Rate (CAGR) sebesar 12,51% per tahun, konversi dana tersebut menghasilkan proyeksi sebagai berikut:
+### Implementasi pada Fitur Aplikasi Keuangan
+Memanfaatkan angka penghematan operasional net sebesar Rp 332.490 per bulan ini untuk dialihkan secara otomatis ke instrumen reksa dana. Menggunakan asumsi makroekonomi dengan Compound Annual Growth Rate (CAGR) sebesar 12,51% per tahun, konversi dana tersebut menghasilkan proyeksi sebagai berikut:
 
 * **Total Setoran Modal Pokok (Micro-Savings):** Rp 19.949.400
 * **Nilai Akhir Akumulasi Investasi (Future Value):** Rp 27.249.707
 * **Pertumbuhan Nilai Murni dari Bunga Majemuk:** Rp 7.300.307
 
-### Kesimpulan Hubungan Topik
-Analisis ini membuktikan secara empiris bahwa penghematan skala mikro (micro-savings) dari efisiensi harian yang dikelola secara digital oleh platform mampu mengubah pola konsumsi pasif menjadi pertumbuhan aset produktif yang signifikan bagi Gen Z.
+

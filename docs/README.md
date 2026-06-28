@@ -1,6 +1,6 @@
 # Dokumentasi Analisis Finansial dan Proyeksi TCO
 
-Dokumen ini memuat interpretasi data visual dari file `tco_bep_chart.png` serta ringkasan eksekutif hasil kalkulasi Total Cost of Ownership (TCO). Analisis ini digunakan sebagai landasan data (proof of concept) untuk fitur Micro-Savings dan Automated Investment pada pengembangan platform Sahabat Duwit (SAWIT).
+Dokumen ini memuat interpretasi data visual dari file `tco_bep_chart.png` serta ringkasan eksekutif hasil kalkulasi Total Cost of Ownership (TCO). Analisis ini digunakan sebagai landasan data (proof of concept) untuk melakukan Micro-Savings dan Investasi.
 
 ## Interpretasi Grafik: tco_bep_chart.png
 
@@ -31,5 +31,4 @@ Memanfaatkan angka penghematan operasional net sebesar Rp 332.490 per bulan ini 
 * **Nilai Akhir Akumulasi Investasi (Future Value):** Rp 27.249.707
 * **Pertumbuhan Nilai Murni dari Bunga Majemuk:** Rp 7.300.307
 
-### Kesimpulan Hubungan Topik
-Analisis ini membuktikan secara empiris bahwa penghematan skala mikro (micro-savings) dari efisiensi harian yang dikelola secara digital oleh platform mampu mengubah pola konsumsi pasif menjadi pertumbuhan aset produktif yang signifikan bagi Gen Z.
+

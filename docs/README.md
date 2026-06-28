@@ -24,8 +24,8 @@ Proyeksi grafik menggunakan rentang waktu 60 bulan (5 tahun) dengan parameter op
 | Total TCO Akhir (60 Bulan) | Rp 32.185.000 | Rp 23.332.201 | Rp 8.852.799 (Total Akumulasi Hemat) |
 | Penghematan Opex Bulanan Net | - | - | Rp 332.490 / bulan |
 
-### Implementasi pada Fitur Aplikasi Keuangan (Future Value)
-Platform SAWIT memanfaatkan angka penghematan operasional net sebesar Rp 332.490 per bulan ini untuk dialihkan secara otomatis ke instrumen reksa dana. Menggunakan asumsi makroekonomi dengan Compound Annual Growth Rate (CAGR) sebesar 12,51% per tahun, konversi dana tersebut menghasilkan proyeksi sebagai berikut:
+### Implementasi pada Fitur Aplikasi Keuangan
+Memanfaatkan angka penghematan operasional net sebesar Rp 332.490 per bulan ini untuk dialihkan secara otomatis ke instrumen reksa dana. Menggunakan asumsi makroekonomi dengan Compound Annual Growth Rate (CAGR) sebesar 12,51% per tahun, konversi dana tersebut menghasilkan proyeksi sebagai berikut:
 
 * **Total Setoran Modal Pokok (Micro-Savings):** Rp 19.949.400
 * **Nilai Akhir Akumulasi Investasi (Future Value):** Rp 27.249.707
